@@ -6,10 +6,17 @@
 
 ### 👨‍💻 About Me
 
-- 🔬 I'm deeply passionate about **AI, Data Science, and Data Engineering**
-- 📊 I love working with data: from **cleaning, processing to modeling and deploying**
-- 🧠 I explore **Machine Learning, Deep Learning**, and **LLM-based applications**
-- 🛠️ I enjoy building **end-to-end pipelines** using modern tools & frameworks
+💡 AI/ML Engineer Intern experienced in building real-time NLP chatbots, LLMs, and deep learning models using PyTorch, Transformers, and OpenCV.
+
+📊 Developed fraud detection and borrower segmentation models that improved financial decision-making accuracy and marketing efficiency by over 25%.
+
+⚙️ Strong in data engineering with hands-on experience in ETL pipelines, Apache Spark, and cloud platforms (AWS & Azure) to process large-scale datasets efficiently.
+
+🤖 Created a custom GPT-like transformer model from scratch, improving token prediction accuracy and training efficiency using CUDA and deep neural optimizations.
+
+📈 Passionate about using AI for real-world impact in EdTech, finance, and sports analytics, with a strong foundation in Python, PyTorch, Scikit-learn, and data.
+
+
 
 ---
 
